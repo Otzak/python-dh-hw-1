@@ -8,6 +8,6 @@
 
 №|описание|ссылка на работу
 ---|:---:|---:
-1|HW1|[HW1] (https://github.com/juliakimjk/python-dh-hw/HW1.ipynb)
+1|HW1|[HW1](https://github.com/juliakimjk/python-dh-hw/HW1.ipynb)
 2|HW2|код
 3|HW3|код
